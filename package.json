@@ -1,0 +1,15 @@
+{
+  "name": "stf-binaries",
+  "version": "1.0.0",
+  "description": "repo store stf binaries",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/codeskyblue/stf-binaries.git",
+    "type": "git"
+  },
+  "author": "codeskyblue <codeskyblue@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "minicap-prebuilt": "^1.0.0"
+  }
+}
