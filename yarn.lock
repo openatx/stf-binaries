@@ -3,5 +3,9 @@
 
 
 minicap-prebuilt@^1.0.0:
-  version "1.3.0"
-  resolved "http://registry.npm.taobao.org/minicap-prebuilt/download/minicap-prebuilt-1.3.0.tgz#a09cfc5e3da025e232fb8a1b4273b7ef551fe92e"
+  version "1.4.0"
+  resolved "http://registry.npm.taobao.org/minicap-prebuilt/download/minicap-prebuilt-1.4.0.tgz#e30fd3b654d49a3956685bf2a1f79b9cdb668874"
+
+minitouch-prebuilt@^1.0.0:
+  version "1.0.0"
+  resolved "http://registry.npm.taobao.org/minitouch-prebuilt/download/minitouch-prebuilt-1.0.0.tgz#69d7c1203fa4b11cfd8faff1457d2505c5528c93"
