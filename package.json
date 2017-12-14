@@ -1,6 +1,6 @@
 {
   "name": "stf-binaries",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "repo store stf binaries",
   "main": "index.js",
   "repository": {
@@ -10,7 +10,7 @@
   "author": "codeskyblue <codeskyblue@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "minicap-prebuilt": "^1.0.0",
+    "minicap-prebuilt": "^2.2.0",
     "minitouch-prebuilt": "^1.0.0"
   }
 }
