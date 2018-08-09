@@ -10,7 +10,7 @@
   "author": "codeskyblue <codeskyblue@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "minicap-prebuilt": "^2.2.0",
-    "minitouch-prebuilt": "^1.0.0"
+    "minicap-prebuilt": "^2.3.0",
+    "minitouch-prebuilt": "^1.2.0"
   }
 }
