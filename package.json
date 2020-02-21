@@ -11,6 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "minicap-prebuilt": "^2.3.0",
-    "minitouch-prebuilt": "^1.2.0"
+    "minicap-prebuilt-beta": "^2.4.0",
+    "minitouch-prebuilt": "^1.2.0",
+    "minitouch-prebuilt-beta": "^1.3.0"
   }
 }
