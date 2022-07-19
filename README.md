@@ -3,6 +3,7 @@ Repo to place STF binaries
 
 - npm <https://www.npmjs.com/package/minicap-prebuilt>
 - github <https://github.com/openstf/minicap>
+- minicap-prebuilt above android-28 <https://github.com/varundtsfi/Android12Support_withso>
 
 ## How to update
 ```
