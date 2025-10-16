@@ -1,7 +1,8 @@
 # stf-binaries
 Repo to place STF binaries
 
-- npm <https://www.npmjs.com/package/minicap-prebuilt>
+- https://www.npmjs.com/package/@devicefarmer/minicap-prebuilt
+- https://www.npmjs.com/package/@devicefarmer/minitouch-prebuilt
 - github <https://github.com/openstf/minicap>
 - minicap-prebuilt above android-28 <https://github.com/varundtsfi/Android12Support_withso>
 
